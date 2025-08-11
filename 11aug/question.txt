@@ -1,0 +1,9 @@
+1) Find all the phases for the following event station location -
+Station - 22 91, 22 91
+Event - 45 178, -18 -118
+event depth - 30, 200
+
+Plot the phases P,S,pP,Scs
+
+2) For the 1st pair find the piercing point at 600km depth for PKiKP
+   For the 2nd event-station find the ....
