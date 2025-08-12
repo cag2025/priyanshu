@@ -1,0 +1,88 @@
+mkdir logs
+touch logs/mybashistory.log
+clear
+clear
+clear
+ls
+clear
+taup_pierce -mod prem -h 30 -evt 45 178 -sta 22 91 --pierce 600
+clear
+taup_pierce -mod prem -ph P -h 30 -evt 45 178 -sta 22 91 --pierce 600
+clear
+okular 04aug/aman.ps 
+okular 04aug/australia.ps 
+clear
+sh 04aug/test.sh 
+clear
+sh 04aug/test.sh 
+okular 04aug/aman.ps 
+clear
+taup_pierce -mod prem -ph SKS -h 111.6 -evt 36.69 178.40 -sta 27.34 85.99 --pierce 410
+taup_pierce -mod prem -ph SKS -h 111.6 -evt 36.69 178.40 -sta 27.34 85.99 --pierce 410 > pierceing_data.txt
+taup_pierce -mod prem -ph SKS -h 68.1 -evt 22.35 158.94 -sta 27.34 85.99 --pierce 410 >> pierceing_data.txt
+cd 12aug/
+ls
+clear
+taup_pierce -mod prem -ph SKS -h 111.6 -evt 36.69 178.40 -sta 27.34 85.99 --pierce 410 > pierceing_data.txt
+taup_pierce -mod prem -ph SKS -h 68.1 -evt 22.35 158.94 -sta 27.34 85.99 --pierce 410 >> pierceing_data.txt
+clear
+cd ..
+cd 05aug/
+ls
+clear
+okular south-america.ps 
+cd ..
+cp 05aug/south-america.sh 12aug/
+cd 12aug/
+clear
+ls
+rm my-answer.sh 
+mv south-america.sh my-answer.sh
+gmt makecpt -Crelief -T-8000/8000/100 > relief.cpt
+gmt makecpt -Ctopo -T-8000/8000/100 > relief.cpt
+taup_pierce -mod iasp91 -ph SKS -h 111.6 -evt 36.69 178.40 -sta 27.34 85.99 --pierce 410 > pierceing_data.txt
+taup_pierce -mod iasp91 -ph SKS -h 68.1 -evt 22.35 158.94 -sta 27.34 85.99 --pierce 410 >> pierceing_data.txt
+clear
+taup_pierce -mod iasp91 -ph SKS -h 108.9 -evt -22.02  -68.71 -sta 27.34 85.99 --pierce 410 >> pierceing_data.txt
+taup_pierce -mod iasp91 -ph SKS -h 108.9 -evt -22.02  -68.71 -sta 27.34 85.99 --pierce 410
+taup_pierce -mod iasp91 -ph SKS -h 122 -evt 18.25 -68.77 -sta 27.34 85.99 --pierce 410
+taup_pierce -mod iasp91 -ph SKS -h 122 -evt 18.25 -68.77 -sta 27.34 85.99 --pierce 410 >> pierceing_data.txt 
+-22.02  -68.71clear
+clear
+lcear
+clear
+ls
+clear
+clear
+chmod +x my-answer.sh 
+./my-answer.sh 
+clear
+./my-answer.sh 
+clear
+./my-answer.sh 
+clear
+./my-answer.sh 
+clear
+./my-answer.sh 
+okular answer.ps
+clear
+./my-answer.sh 
+clear
+./my-answer.sh 
+clear
+./my-answer.sh 
+clear
+./my-answer.sh 
+clear
+./my-answer.sh 
+clear
+./my-answer.sh 
+clear
+./my-answer.sh 
+clear
+./my-answer.sh 
+./my-answer.sh 
+./my-answer.sh 
+git add .
+cd ..
+git add .

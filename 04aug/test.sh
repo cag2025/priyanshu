@@ -3,9 +3,9 @@ Reg=-R68/100/6/50
 Pro=-Jm0.5
 ps=aman.ps
 
-CPT=aman.cpt
+CPT=~/22EX10033/05aug/aman.cpt
 CPT1=oo.cpt
-GRD=INDIA.GRD
+GRD=~/Desktop/topo30.grd
 gmt grdcut $GRD $Reg $Pro -Gtmp1.grd -V
 gmt grdmath -25 tmp1.grd MAX=tmp2.grd
 gmt grdsample tmp1.grd -Gtmp.grd -I4m -r -nc+c -V
