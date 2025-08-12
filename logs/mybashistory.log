@@ -86,3 +86,20 @@ clear
 git add .
 cd ..
 git add .
+git commit -a
+git push origin main
+clear
+cd 12aug/
+chmod +x efficient_ans.sh 
+clear
+ls
+celar
+clear
+./efficient_ans.sh 
+./efficient_ans.sh 
+clear
+clear
+ls
+rm -rf 25EX40002/
+clear
+cd ..
