@@ -103,3 +103,101 @@ ls
 rm -rf 25EX40002/
 clear
 cd ..
+git add .
+git commit -m "12aug_commmit2"
+git push origin main
+shutdown now
+nvim .
+clear
+clear
+clear
+ls
+clear
+ls
+clear
+cd 22EX10033/
+ls
+clear
+clear
+clear
+cd 12aug/
+clear
+./efficient_ans.sh 
+okular answer.ps
+clear
+./efficient_ans.sh 
+clear
+./efficient_ans.sh 
+clear
+clear
+./efficient_ans.sh 
+clear
+./efficient_ans.sh 
+clear
+./efficient_ans.sh 
+clear
+./efficient_ans.sh 
+./efficient_ans.sh 
+clear
+./efficient_ans.sh 
+clear
+./efficient_ans.sh 
+clear
+./efficient_ans.sh 
+clear
+./efficient_ans.sh 
+clear
+./efficient_ans.sh 
+clear
+./efficient_ans.sh 
+./efficient_ans.sh 
+clear
+./efficient_ans.sh 
+clear
+gmt coast -R-30/30/60/72 -Js0/90/4.5i/60 -B10g -Dl -A250 -Groyalblue -Sseashell -pdf GMT_stereographic_polar
+gmt coast -R-68/100/8/32 -Js0/90/4.5i/60 -B10g -Dl -A250 -Groyalblue -Sseashell > polar_projection_india.ps
+gmt pscoast -R-68/100/8/32 -Js0/90/4.5i/60 -B10g -Dl -A250 -Groyalblue -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/100/8/32 -Js0/90/4.5i/60 -B10g -Dl -A250 -Groyalblue -Sseashell > polar_projection_india.ps/
+gmt pscoast -R68/100/8/32 -Js0/90/4.5i/60 -B10g -Dl -A250 -Groyalblue -Sseashell > polar_projection_india.ps /
+gmt pscoast -R68/100/8/32 -Js0/90/4.5i/60 -B10g -Dl -A250 -Groyalblue -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/100/8/32 -Js0/90/4.5i/60 -B10g -Df -A250 -Groyalblue -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/100/8/32 -Js0/90/4.5i/60 -B10g -Df -A250 -Groyalblue -Sseashell -P > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/100/8/32 -Js0/90/4.5i/60 -B10g -Df -A250 -Groyalblue -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/100/8/32 -Js90/90/4.5i/60 -B10g -Df -A250 -Groyalblue -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/100/8/32 -Js90/90/4.5i/60 -B10g -Df -A250 -Ggreen -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/100/8/32 -Js90/90/4.5i/60 -Ia/0.3,blue -B2g2 -Df -A250 -Ggrey -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R40/100/8/32 -Js90/90/4.5i/60 -Ia/0.3,blue -B2g2 -Df -A250 -Ggrey -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/100/8/32 -Js90/90/4.5i/60 -Ia/0.3,blue -B2g2 -Df -A250 -Ggrey -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/100/8/32 -Js100/90/4.5i/60 -Ia/0.3,blue -B2g2 -Df -A250 -Ggrey -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/100/8/32 -Js70/90/4.5i/60 -Ia/0.3,blue -B2g2 -Df -A250 -Ggrey -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/100/8/32 -Js80/90/4.5i/60 -Ia/0.3,blue -B2g2 -Df -A250 -Ggrey -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/90/8/32 -Js80/90/4.5i/60 -Ia/0.3,blue -B2g2 -Df -A250 -Ggrey -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/90/8/32 -Js80/95/4.5i/60 -Ia/0.3,blue -B2g2 -Df -A250 -Ggrey -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+gmt pscoast -R68/100/8/32 -Js100/90/4.5i/60 -Ia/0.3,blue -B2g2 -Df -A250 -Ggrey -Sseashell > polar_projection_india.ps
+okular polar_projection_india.ps 
+cd ..
+cd ..
+ls
+clear
+ls
+cd 22EX10033/
+clear
+ls
+clear
+ls
+clear
