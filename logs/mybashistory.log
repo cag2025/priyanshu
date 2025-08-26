@@ -262,3 +262,35 @@ git pull
 cd 22EX10033/
 clear
 git pull
+git add .
+git commit -m "26Aug"
+git push origin main
+clear
+mulplt
+clear
+mulplt -h
+ls
+cd cut_files/
+ls
+clear
+dirf -h
+ls
+rm filenr.lis 
+clear
+ls
+clear
+dirf *.miniseed
+clear
+seisei
+clear
+ls
+mulplt
+clear
+dirf *INSK*
+mulplt
+clear
+ls
+clear
+clear
+clear
+cd 22EX10033/
