@@ -201,3 +201,64 @@ ls
 clear
 ls
 clear
+git add .
+git commit -m "19aug"
+git push origin main
+ls
+clear
+nvim .
+reboot
+reboot
+reboot
+systemd-analyze
+cd 22EX10033/
+seisei
+dirf *INS*
+cat filenr.lis 
+mulplt
+clear
+ls
+mulplt
+seisei
+dirf *.miniseed
+cat filenr.lis 
+seisei 
+dirf *INSK*
+mulplt
+mulplt
+clear
+ls
+clear
+dirf *.miniseed
+cat filenr.lis 
+seisei 
+dirf *INSK*
+mulplt
+clear
+mulplt
+clear
+mulplt
+clear
+mulplt
+clear
+mulplt
+clear
+cat 01-0802-52L.S202004 
+cat 01-0802-52L.S202004 
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+clear
+clera
+ls
+clear
+git pull
+cd 22EX10033/
+clear
+git pull
