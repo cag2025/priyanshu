@@ -1,0 +1,34 @@
+SEISAN Log file. This file contain a log of the event listed below.
+This log file was created on: 2025-09-01 08:30:40
+The operator was: INS 
+The s-file content at creation:
+ 2020  4 1  8 2 52.6 L                                                         1
+ ACTION:REG 25-09-01 08:29 OP:INSK STATUS:               ID:20200401080252     I
+ 2020-04-01-0802-52M.INSK__024                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ SK10 BZ IP     D  8 5  2.77                                                    
+ SK10 BE IS     C  8 5 20.71                                                    
+ SK13 BZ IP     D  8 5  5.69                                                    
+ SK20 BZ IP     C  8 5  1.20                                                    
+ SK18 BZ IP     D  8 5  1.20                                                    
+ SK23 BZ IP     D  8 5  0.21                                                    
+ SK22 BZ IP     C  8 5  0.92                                                    
+ SK13 BN IS     C  8 5 25.44                                                    
+ SK13 BE IS     D  8 5 25.53                                                    
+ SK18 BN IS     C  8 5 18.39                                                    
+ SK18 BE IS     C  8 5 18.39                                                    
+ SK20 BN IS     C  8 5 15.36                                                    
+ SK20 BE IS     D  8 5 15.45                                                    
+ SK22 BN IS     D  8 5 20.10                                                    
+ SK22 BE IS     C  8 5 19.70                                                    
+ SK23 BN IS     D  8 5 18.24                                                    
+ SK23 BE IS     C  8 5 18.43                                                    
+ SK00 BZ IP     C  8 5 13.19                                                    
+ SK07 BZ IP     C  8 5  8.13                                                    
+ SK00 BN IS     C  8 5 40.09                                                    
+ SK00 BE IS     C  8 5 40.81                                                    
+ SK07 BN IS     C  8 5 29.81                                                    
+ SK07 BE IS     C  8 5 29.80                                                    
+ SK10 BN IS     C  8 5 21.24                                                    
+                                                                                
+--------------------------------------------------------------------------------
