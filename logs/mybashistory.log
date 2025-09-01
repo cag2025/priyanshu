@@ -348,3 +348,12 @@ ls
 clear
 git add .
 git commit -m "Sep1"
+git add .
+git commit -m "sept1"
+git push origin main
+clear
+eev
+cd cut_files/
+eev
+ls
+cd ..
