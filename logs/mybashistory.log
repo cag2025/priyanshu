@@ -346,3 +346,5 @@ clear
 cd ..
 ls
 clear
+git add .
+git commit -m "Sep1"

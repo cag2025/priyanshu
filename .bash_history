@@ -1101,3 +1101,53 @@ mulplt
 clear
 ls
 clear
+cd 22EX10033/
+git add .
+git commit -m "bash history upload"
+git push origin main
+shutdown now
+cd 22EX10033/
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+cd cut_files/
+ls
+clear
+ls
+dirf *.miniseed
+clear
+seisei
+ls
+dirf *INSK*
+multplt
+mulplt
+ls
+cat 01-0802-52L.S202004 
+eev
+clear
+ls
+clear
+ls
+mulplt
+ls
+mkdir WAV
+ls
+mulplt
+ls
+ls WAV/
+ls
+clear
+ls
+clear
+ls
+nautilus .
+clear
+cd ..
+ls
+clear
+git add .
+git commit -m "Sep1"
