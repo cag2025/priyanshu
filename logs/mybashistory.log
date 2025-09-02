@@ -357,3 +357,67 @@ cd cut_files/
 eev
 ls
 cd ..
+git add .
+git commit -m "Sept3"
+git push origin main
+clear
+ls
+clear
+clear
+clear
+apt install btop
+clear
+nvim .bashrc 
+cd 22EX10033/
+cd cut_files/
+ls
+clear
+ls
+clear
+ls
+clear
+clear
+ls
+clear
+clear
+eev
+clear
+exit
+ls
+clear
+cler
+ls
+clear
+ls
+clear
+chmod +x gmt-location.sh 
+clear
+./gmt-location.sh 
+okular location.ps 
+clear
+./gmt-location.sh 
+okular location.ps 
+./gmt-location.sh 
+okular location.ps 
+clear
+./gmt-location.sh 
+okular location.ps 
+okular location.ps 
+./efficient_ans.sh 
+./efficient_ans.sh 
+touch location2.dat
+touch location2.dat
+./efficient_ans.sh 
+./efficient_ans.sh 
+./efficient_ans.sh 
+./efficient_ans.sh 
+./efficient_ans.sh 
+gmt makecpt topo -8000/8000/100 > relief.cpt
+clear
+chmod +x gmt-location.sh 
+./gmt-location.sh 
+eev
+eev
+clear
+cd ..
+git push origin main

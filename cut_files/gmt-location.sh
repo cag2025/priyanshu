@@ -31,6 +31,6 @@ gmt pscoast $Reg $Pro -Q -W0.25p,black -Ia/0.5,blue -O -K >> $ps
 # echo "85.99 27.34" | gmt psxy $Reg $Pro -Si0.3i -Gred -W0.5,black -O -K >> $ps
 
 # Plot the locations from location.dat as larger blue plus signs
-awk '{print $2, $1}' location2.dat | gmt psxy $Reg $Pro -Sc0.3i -W2,blue -Gred -O >> $ps
+awk '{print $2, $1}' location.txt | gmt psxy $Reg $Pro -Sc0.3i -W2,blue -Gred -O >> $ps
 
 okular answer.ps
