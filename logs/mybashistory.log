@@ -421,3 +421,171 @@ eev
 clear
 cd ..
 git push origin main
+git add .
+git commit -m "sept2"
+git push origin main
+clear
+shutdown now
+nvim .
+cd 22EX10033/
+ls
+clear
+mkdir test-Sep8
+cd test-Sep8/
+ls
+clear
+taup_pierce -mod ak135 -sta 80 25 -evt 28 20 -h 160 -ph P,SKKS
+taup_pierce -mod ak135 -sta 80 25 -evt 28 20 -h 160 -ph P,SKKS > piercing_points.txt
+ls ../
+ls
+dirf *INSK*
+mulplt
+cd ..
+cd cut_files/
+eev
+clea
+clear
+cd ..
+cd test-Sep8/
+ls
+mulplt
+eev
+clear
+ls
+clear
+cd ..
+cd ..
+ls
+git -b priyanshu-lnx clone git@github.com:cag2025/Aman-Gupta.git
+git clone --branch priyanshu-lnx git@github.com:cag2025/Aman-Gupta.git
+cd Aman-Gupta/
+ls
+cd taup2
+ls
+cd ..
+cd taup
+ls
+cd ../../22EX10033/
+ls
+clear
+cd test-Sep8/
+ls
+nvim
+cd ..
+cd ..
+gmt -R68/100/6/50 -JU -B2g2 -Na -Ia/0.3,blue >> test.ps
+okular test.ps
+gmt -R68/100/6/50 -JU -B2g2 -Na -Ia/0.3,blue > test.ps
+clear
+chmod +x test
+chmod +x test.sh
+cd test-Sep8/
+chmod +x test.sh
+clear
+./test.sh
+./test.sh
+clear
+./test.sh
+okular test.ps 
+clear
+./test.sh
+okular test.ps 
+eev
+clear
+./test.sh
+okular test.ps 
+clear
+./test.sh
+okular test.ps 
+clea
+clear
+./test.sh
+okular test.ps 
+./test.sh
+okular test.ps 
+clear
+./test.sh
+./test.sh
+clear
+./test.sh
+clear
+./test.sh
+clear
+./test.sh
+taup_pierce -mod ak135 -sta 80 25 -evt 28 20 -h 160 -ph P,SKKS
+taup_pierce -mod ak135 -sta 25 80 -evt -20 28 -h 160 -ph P,SKKS
+clear
+clear
+chmod +x my-answer.sh 
+./my-answer.sh 
+clear
+taup_pierce -mod ak135 -sta 25 80 -evt -20 28 -h 160 -ph P,SKKS
+clear
+clear
+./test.sh 
+nvim .
+cd 22EX10033/test-Sep8/
+cd ..
+cd ..
+cd test-Sep8/
+clear
+./test.sh 
+clear
+./test.sh 
+clear
+./test.sh 
+clear
+./test.sh 
+./test.sh 
+clear
+./test.sh 
+./test.sh 
+clear
+./test.sh 
+./test.sh 
+clear
+./test.sh 
+./test.sh 
+clear
+./test.sh 
+clear
+./test.sh 
+./test.sh 
+./test.sh 
+clear
+./test.sh 
+./test.sh 
+clear
+./test.sh 
+./test.sh 
+./test.sh 
+./test.sh 
+./test.sh 
+./test.sh 
+git push origin main
+git push origin priyanshu-lnx 
+okular test.ps 
+cat location.dat | awk '{print $1, $2}'
+./test.sh 
+./test.sh 
+./test.sh 
+./test.sh 
+./test.sh 
+./test.sh 
+./test.sh 
+./test.sh 
+./test.sh 
+taup_pierce -mod ak135 -sta 25 80 -evt -20 28 -h 160 -ph P,SKKS
+taup_pierce -mod ak135 -sta 25 80 -evt -20 28 -h 160 -ph P,SKKS > piercing_points.txt 
+cd ..
+cd ..
+cd ~/
+cd 22EX10033/
+ls
+clear
+git push
+git push origin main
+git push origin main
+cd 22EX10033/
+git diff
+git diff
