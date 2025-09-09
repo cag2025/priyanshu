@@ -1,0 +1,15 @@
+ 2020  4 1 0804 35.6 L  28.816  87.628  0.0  TES  8 2.3                        1
+ GAP=331        6.29      78.9    42.0 65.3  0.1988E+04  0.1446E+04  0.4596E+04E
+ ACTION:REG 25-09-01 08:29 OP:INSK STATUS:               ID:20200401080252     I
+ 2020-04-01-0802-52M.INSK__024                                                 6
+    107.17     51.67     29.61                               0        FOCMEC   F
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ SK20 BZ IP     C  8 5  1.20                              58    1.7410  140 140 
+ SK22 BZ IP     C  8 5  0.92                              58   -0.6410  154 137 
+ SK23 BZ IP     D  8 5  0.21                              49   -1.9610  158 161 
+ SK18 BZ IP     D  8 5  1.20                              49   -1.1210  161 150 
+ SK10 BZ IP     D  8 5  2.77                              43   -1.8210  178 166 
+ SK13 BZ IP     D  8 5  5.69                              43   -0.0010  187 150 
+ SK07 BZ IP     C  8 5  8.13                              43    0.2910  206 152 
+ SK00 BZ IP     C  8 5 13.19                              43    2.4410  229 165 
+                                                                                

@@ -1,0 +1,17 @@
+fm_new.out
+-----
+ 
+focmec.dat
+        correct file  [y] 
+n       relative weighting..[n] 
+000.0   allowed P polarity erors..[0]                                                     
+0100    exit after this many acceptable solutions...[100] 
+        minimum B trend  [0] 
+002     B increment  [5] 
+        maximum B trend  [360] 
+        min B plunge..[0] 
+002     increment  [5] 
+        maximum..[90] 
+        minimum A angle..[0] 
+002     increment  [5] 
+        maximum  [180] 
